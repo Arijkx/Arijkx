@@ -20,3 +20,13 @@ Thanks for stopping by – enjoy exploring my pixel art. And if not, feel free t
 - 💬 Ask me about **pixel art, Aseprite, or my space battle inspirations**.
 - 📫 How to reach me: **[Join me on Discord](https://discord.com/invite/bwdKzauM83)**
 - ⚡ Fun fact: **I still have my Gameboy, and yes, it works!**
+
+---
+
+### Connect with me:
+
+- **[Instagram](https://www.instagram.com/arijkx_/)**  
+- **[Twitter](https://x.com/arijkx_)**  
+- **[YouTube](https://www.youtube.com/@arijkx)**  
+- **[Twitch](https://www.twitch.tv/arijkx)**  
+- **[Ko-fi](https://ko-fi.com/arijkx)**  
