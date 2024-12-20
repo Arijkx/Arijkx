@@ -4,7 +4,7 @@ I’m a pixel artist – yes, that still exists, and I love creating big art wit
 
 My passion lies mainly in futuristic spaceships and epic space battles. Why? Because the universe is just way cooler than regular life. For my drawings, I mostly use **Aseprite** – a program that's probably as fun as a space adventure. Before that, I was a loyal Adobe Photoshop user until I realized pixel art involves fewer pixels and a lot more fun.
 
-What’s my goal? To offer you artwork that you can enjoy and hopefully use. Now and then, I throw up a free asset pack on **[itch.io](https://itch.io/)**, because nothing’s more fun than giving something away and seeing it get used. If you like it – great! If not – well, at least it was free.
+What’s my goal? To offer you artwork that you can enjoy and hopefully use. Now and then, I throw up a free asset pack on **[itch.io](https://arijkx.itch.io/)**, because nothing’s more fun than giving something away and seeing it get used. If you like it – great! If not – well, at least it was free.
 
 On the side, I’m also trying, like many other artists, to dip my toes into game development. As a passionate gamer (and probably a bit frustrated by the industry), I dream of creating my own game ideas. Yeah, I’m the kind of person who thinks they can make a game that isn’t dependent on microtransactions. But hey, these are just hobby projects, so no worries – you’ll see more eventually.
 
@@ -18,5 +18,5 @@ Thanks for stopping by – enjoy exploring my pixel art. And if not, feel free t
 - 🌱 I’m currently learning **game development and improving my Aseprite skills**.
 - 👯 I’m looking to collaborate on **game jams and pixel art projects**.
 - 💬 Ask me about **pixel art, Aseprite, or my space battle inspirations**.
-- 📫 How to reach me: **[Your Contact Info or Social Media]**
+- 📫 How to reach me: **[Join me on Discord](https://discord.com/invite/bwdKzauM83)**
 - ⚡ Fun fact: **I still have my Gameboy, and yes, it works!**
