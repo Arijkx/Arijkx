@@ -13,14 +13,13 @@ I hope my art speaks to you. Or maybe not. But hey, leave a comment and tell me 
 Thanks for stopping by – enjoy exploring my pixel art. And if not, feel free to swing by again. Maybe I’ll find the “right” pixel someday. 😊
 
 ---
-- 💌 Website: **[Arijkx PIXELS](https://arijkx.github.io/arijkxpixels/)**
----
 
 - 🔭 I’m currently working on **pixel art spaceships and game projects**.
 - 🌱 I’m currently learning **game development and improving my Aseprite skills**.
 - 👯 I’m looking to collaborate on **game jams and pixel art projects**.
 - 💬 Ask me about **pixel art, Aseprite, or my space battle inspirations**.
 - 📫 How to reach me: **[Join me on Discord](https://discord.com/invite/bwdKzauM83)**
+- 💌 My website: **[Arijkx PIXELS](https://arijkx.github.io/arijkxpixels/)**
 - ⚡ Fun fact: **I still have my Gameboy, and yes, it works!**
 
 ---
