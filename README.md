@@ -19,7 +19,7 @@ Thanks for stopping by, enjoy exploring my pixel art. And if not, feel free to s
 - 👯 I’m looking to collaborate on **game jams and pixel art projects**.
 - 💬 Ask me about **pixel art, Aseprite, or my space battle inspirations**.
 - 📫 How to reach me: **[Join me on Discord](https://discord.com/invite/bwdKzauM83)**
-- 💌 My website: **[Arijkx PIXELS](https://arijkx.github.io/arijkxpixels/)**
+- 💌 My website: **[Arijkx PIXELS](https://arijkxpixels.arijkx.workers.dev/)**
 - ⚡ Fun fact: **I still have my Gameboy, and yes, it works!**
 
 ---
