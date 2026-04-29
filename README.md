@@ -10,7 +10,7 @@ On the side, I’m also trying, like many other artists, to dip my toes into gam
 
 I hope my art speaks to you. Or maybe not. But hey, leave a comment and tell me what you think, constructive criticism is like good coffee: bitter, but necessary.
 
-Thanks for stopping by, enjoy exploring my pixel art. And if not, feel free to swing by again. Maybe I’ll find the “right” pixel someday. 😊
+Thanks for stopping by, enjoy exploring my pixel art. And if not, feel free to swing by again. Maybe I’ll find the “right” pixel someday.
 
 ---
 
